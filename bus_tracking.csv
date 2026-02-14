@@ -1,0 +1,5 @@
+IDBus,Rute,HalteTerakhir,ETAmenit,Status
+B001,Terminal A - Terminal B,Halte 3,5,ON_ROUTE
+B002,Terminal A - Terminal C,Halte 1,18,DELAY
+B003,Terminal B - Terminal D,Halte 5,0,ARRIVED
+B004,Terminal C - Terminal A,Halte 2,9,ON_ROUTE
